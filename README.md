@@ -66,6 +66,6 @@ Built as a **production-oriented education SaaS**, not a demo project.
 **Mohammed Al-Swaisy**  
 Senior Backend Engineer | SaaS Architect  
 
-🔗 LinkedIn: https://linkedin.com/in/mohammedswesy  
+🔗 LinkedIn: https://www.linkedin.com/in/mohammed-swesy-0450a8272
 
 > I don't just write code — I design backend systems that scale and make sense.
