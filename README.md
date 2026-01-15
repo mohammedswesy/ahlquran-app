@@ -1,8 +1,8 @@
 # 📖 AhlQuran – Quran Circles Management Platform
 
-**A backend-first SaaS platform** designed to manage Quran memorization circles with a clean, scalable, and maintainable architecture.
+A backend-first SaaS platform designed to manage Quran memorization circles with a clean, scalable, and maintainable architecture.
 
-AhlQuran focuses on **real-world business logic**, role-based access control, and system design — not just CRUD operations.
+AhlQuran focuses on real-world business logic, role-based access control, and system design — not just CRUD operations.
 
 ---
 
@@ -19,7 +19,7 @@ Built as a **production-oriented education SaaS**, not a demo project.
 ---
 
 ## 🧠 Core Features
-- Multi-role system (**Admin / Teacher / Student**)
+- Multi-role system (Admin / Teacher / Student)
 - Circle creation, scheduling, and assignment
 - Attendance tracking with extensible data model
 - Policy & Gate-based authorization
@@ -42,6 +42,14 @@ Built as a **production-oriented education SaaS**, not a demo project.
 - **Authentication & Authorization:** Laravel Auth, Policies, Gates
 - **Frontend:** Blade (API-ready for React or Vue)
 - **Testing:** PHPUnit (structure prepared)
+
+---
+
+## 📸 Screenshots
+> Current state of the system (UI and core flows)
+
+![Dashboard](docs/screenshots/dashboard.png)
+![Circles Management](docs/screenshots/circles.png)
 
 ---
 
